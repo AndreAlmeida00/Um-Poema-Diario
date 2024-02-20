@@ -1,0 +1,1 @@
+--- Site desenvolvido em homenagem a minha mãe, ela tem alguns poemas guardados. Então decidi fazer uma roleta diaria de poemas que ela possui ---
