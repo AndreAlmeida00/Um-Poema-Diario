@@ -12,7 +12,7 @@ Como Utilizar
 Clone o repositório:
 bash
 Copy code
-git clone https://github.com/seu-usuario/um-poema-diario.git
+git clone [https://github.com/seu-usuario/um-poema-diario.git](https://github.com/AndreAlmeida00/Um-Poema-Diario.git)
 Abra o repositorio em um server ou em um compilador como o VSCode.
 
 O poema do dia será exibido automaticamente na página.
