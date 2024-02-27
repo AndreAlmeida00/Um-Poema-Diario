@@ -1,43 +1,59 @@
 body {
-    margin: 10;
-    padding: 0;
-    min-height: 100vh; /* Garante que o corpo da página tenha pelo menos a altura da viewport */
-    display: flex;
-    flex-direction: column;
-    background-size: cover;
-    background-image: url(./img/fundo\ de\ papel\ antigo.jpg);
-    background-position: center;
+  min-height: 100vh; /* Garante que o corpo da página tenha pelo menos a altura da viewport */
+  flex-direction: column;
+  background-size: cover;
+  background-image: url(./img/fundo\ de\ papel\ antigo.jpg);
+  background-position: center;
 }
 
 header {
-    padding: 10px; 
-    text-align: center;
+  text-align: center;
 }
 
 header h1 {
-    font-family: Brush Script MT, Brush Script Std, cursive ;
-    font-size: clamp(3em, 1em + 10vw, 10em);
-    font-weight: 80;
-    text-shadow: 0.1em 0.1em 0.9em black;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: clamp(3em, 1em + 10vw, 10em);
+  font-weight: 80;
+  text-shadow: 0.1em 0.1em 0.9em black;
 }
 
 main {
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
 }
+
+.titulo {
+  font-size:clamp(1em, 1em + 4vw, 10em);
+  font-family: "Ephesis", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poema {
+  font-size: clamp(1em, 1em + 2vw, 2em);
+  font-family: "Ephesis", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.artista, .ano {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 pre {
-    flex-direction: column;
-    text-align: center;
-    font-size: clamp(0.5em, 0.5em + 2vw, 1.5em);
-    font-size-adjust: 0.54;
-    }
+  flex-direction: column;
+  text-align: center;
+  font-size: clamp(0.5em, 0.5em + 2vw, 1.5em);
+  font-size-adjust: 0.54;
+}
 
 footer {
-    bottom: 0;
-    padding: 10px;
-    font-size: clamp(0.5em, 0.5em + 1vw, 1em);
-    align-items: flex-start;
-    text-shadow: 0.1em 0.1em 0.9em black;
+  bottom: 0;
+  padding: 10px;
+  font-size: clamp(0.5em, 0.5em + 1vw, 1em);
+  align-items: flex-start;
+  text-shadow: 0.1em 0.1em 0.9em black;
 }

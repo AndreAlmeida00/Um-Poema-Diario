@@ -1,113 +1,50 @@
 {
-    "1" : {
-            "Titulo": "Amor",
-            "Artista": "Noeli Muller de Almeida",
-            "Data": "12/01/2002",
-            "Poema": "Desde o primeiro momento que te vi... \n Senti algo acontecer... \n Parecia uma emoção, uma dor, uma vontade de estar perto de você! \n Hoje sei que era amor! \n Você é um tesouro que valoriza o meu ser! \n Quando estou com você os dias são mais belos \n a cada dia você brilha mais!!! \n Minha alegria é te ver feliz! \n vivendo com sucesso, vencendo as dificuldades \n Transmitindo aos que te rodeiam segurança \n O teu sorriso irradia felicidades \n nos momentos que Deus nos proporciona a vida. \n Não cansamos de agradecer! Pois você meu amor \n se completa junto à mim \n\n Te amo, te quero, te preciso... \n\n\n Saudade é o amor que fica! \n Te amo hoje bem mais que ontem \n e menos que amanhã."
-        },
-        
-        "2" : {
-            "Titulo": "Ser Mãe",
-            "Artista": "Noeli Muller de Almeida",
-            "Data": "10/05/2004",
-            "Poema": "Ser mãe é ser sublime! \n É ser amada! \n É ser dividida entre ela e seus filhos! \n É ser comparada a uma rainha \n e muitas vezes a uma escrava! \n\n É conhecer o mais doce sentimento! \n E tambem sentir a maior preocupação \n E ter a cada dia o acalento \n E alguns casos a decepção! \n\n É ser sublime, pois tem o dom de dar a vida; \n E se isso aconteceu \n É por que um dia em algum lugar \n Alguem a amou! \n Amou completo ou incompleto \n sei que dividida a deixou... \n\n Dividida, pois não pode viver por si só. \n Cada filho é a continuidade de seus sonhos \n Seus projetos... seus passos... \n Se tudo der certo ninguém a tem como vencedora. \n Mas se algo der errado \n Se o passo do filho for fracassado \n A mãe sempre é culpada \n Pois não foi bem orientada \n E o filho mal educado! \n\n Ser mãe é viver na expectativa! \n Como nesse dia, onde todos exclamou \n É teu dia mamãe!!! \n\n Mas nós sabemos que a cada dia \n é nossa a responsabilidade de prover o alimento \n agasalho e sustento aos filhos que são nossa cria! \n Essa é a nossa missão por excelência! \n E o que queremos nesse dia \n o melhor presente de todos os presentes. \n é ter de vocês filhos a obediência!!!"
-        },
-        
-        "3" :  {
-            "Titulo": "Adeus",
-            "Artista": "Noeli Muller de Almeida",
-            "Data": "22/05/2004",
-            "Poema": "teste poema"
-        },
-        
-        "4" :  {
-            "Titulo": "teste titulo",
-            "Artista": "Noeli Muller de Almeida",
-            "Data": "teste Data",
-            "Poema": "teste poema"
-        },
-        
-        "5" : {
-            "Titulo": "teste titulo",
-            "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "teste poema"
-    },
-    
-    "6" :  {
-        "Titulo": "teste titulo",
-        "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "teste poema"
-        },
+  "1": {
+    "Titulo": "Amor",
+    "Artista": "Noeli Muller de Almeida",
+    "Data": "12/01/2002",
+    "Poema": "Desde o primeiro momento que te vi... \n Senti algo acontecer... \n Parecia uma emoção, uma dor, uma vontade de estar perto de você! \n Hoje sei que era amor! \n Você é um tesouro que valoriza o meu ser! \n Quando estou com você os dias são mais belos \n a cada dia você brilha mais!!! \n Minha alegria é te ver feliz! \n vivendo com sucesso, vencendo as dificuldades \n Transmitindo aos que te rodeiam segurança \n O teu sorriso irradia felicidades \n nos momentos que Deus nos proporciona a vida. \n Não cansamos de agradecer! Pois você meu amor \n se completa junto à mim \n\n Te amo, te quero, te preciso... \n\n Saudade é o amor que fica! \n Te amo hoje bem mais que ontem \n e menos que amanhã."
+  },
 
-        "7" :  {
-        "Titulo": "teste titulo",
-        "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "teste poema"
-    },
-    
-    "8" :  {
-        "Titulo": "teste titulo",
-        "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "teste poema"
-    },
-    
-    "9" :  {
-        "Titulo": "teste titulo",
-        "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "Ser mãe é ser sublime! \n É ser amada! \n É ser dividida entre ela e seus filhos! \n É ser comparada a uma rainha \n e muitas vezes a uma escrava! \n\n É conhecer o mais doce sentimento! \n E tambem sentir a maior preocupação \n E ter a cada dia o acalento \n E alguns casos a decepção! \n\n É ser sublime, pois tem o dom de dar a vida; \n E se isso aconteceu \n É por que um dia em algum lugar \n Alguem a amou! \n Amou completo ou incompleto \n sei que dividida a deixou... \n\n Dividida, pois não pode viver por si só. \n Cada filho é a continuidade de seus sonhos \n Seus projetos... seus passos... \n Se tudo der certo ninguém a tem como vencedora. \n Mas se algo der errado \n Se o passo do filho for fracassado \n A mãe sempre é culpada \n Pois não foi bem orientada \n E o filho mal educado! \n\n Ser mãe é viver na expectativa! \n Como nesse dia, onde todos exclamou \n É teu dia mamãe!!!"
-    },
-    
-    "10" : {
-        "Titulo": "teste titulo",
-        "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "teste poema"
-    },
-    
-    "11" :  {
-        "Titulo": "teste titulo",
-        "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "teste poema"
-        },
-    
-    "12" :  {
-        "Titulo": "teste titulo",
-        "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "teste poema"
-        },
-    
-    "13" :  {
-        "Titulo": "teste titulo",
-        "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "teste poema"
-        },
-    
-    "14" :  {
-        "Titulo": "teste titulo",
-        "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "teste poema"
-        },
-    
-    "15" :  {
-        "Titulo": "teste titulo",
-        "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "teste poema"
-        },
-    
-    "16" : {
-        "Titulo": "teste titulo",
-        "Artista": "Noeli Muller de Almeida",
-        "Data": "teste Data",
-        "Poema": "teste"
-    }
+  "2": {
+    "Titulo": "Ser Mãe",
+    "Artista": "Noeli Muller de Almeida",
+    "Data": "10/05/2004",
+    "Poema": "Ser mãe é ser sublime! \n É ser amada! \n É ser dividida entre ela e seus filhos! \n É ser comparada a uma rainha \n e muitas vezes a uma escrava! \n\n É conhecer o mais doce sentimento! \n E tambem sentir a maior preocupação \n E ter a cada dia o acalento \n E alguns casos a decepção! \n\n É ser sublime, pois tem o dom de dar a vida; \n E se isso aconteceu \n É por que um dia em algum lugar \n Alguem a amou! \n Amou completo ou incompleto \n sei que dividida a deixou... \n\n Dividida, pois não pode viver por si só. \n Cada filho é a continuidade de seus sonhos \n Seus projetos... seus passos... \n Se tudo der certo ninguém a tem como vencedora. \n Mas se algo der errado \n Se o passo do filho for fracassado \n A mãe sempre é culpada \n Pois não foi bem orientada \n E o filho mal educado! \n\n Ser mãe é viver na expectativa! \n Como nesse dia, onde todos exclamou \n É teu dia mamãe!!! \n\n Mas nós sabemos que a cada dia \n é nossa a responsabilidade de prover o alimento \n agasalho e sustento aos filhos que são nossa cria! \n Essa é a nossa missão por excelência! \n E o que queremos nesse dia \n o melhor presente de todos os presentes. \n é ter de vocês filhos a obediência!!!"
+  },
+
+  "3": {
+    "Titulo": "Adeus",
+    "Artista": "Noeli Muller de Almeida",
+    "Data": "22/05/2004",
+    "Poema": "Tudo tem o seu tempo determinado \n Há tempo para todo proposito descrito do céu! \n Tempo de nascer e tempo de morrer \n Tempo de plantar e de arrancar o que se plantou! \n\n Todos esses tempos já cumpriram \n (Pra senhora dona Vendelina Luiza) \n Estamos aqui reunidos para render-lhes nossa ultima homenagem. \n Sabemos que conosco só está seu corpo presente; \n corpo esse que soube sofrer muitas dores... \n E por ele mais vidas vieram a esse mundo. \n Queremos todos nós seus filhos, lhe agradecer por tudo o que tem feito por nós. \n E tambem mais uma vez lhe pedir perdão. \n Por tudo que a fizera sofrer! \n\n Hoje pra você a vida na terra é passado. \n E acreditamos que junto de Deus vais continuar à esperar cada um de nós. \n Sei que já não podes mais nos ouvir \n pois sua alma e espirito devem estar ocupados demais \n vendo as maravilhas que Deus tem aí no céu... \n Verás que as lutas, dificuldades e tristezas que aqui passou \n foi só um teste \n e você venceu!!! \n Venceu, porque nós também te perdoamos \n pelos erros a nós cometidos. \n \n Palavras que nas tribulações da vida foram ditas sem pensar. \n Neste dia o Adeus mãe! \n Parece um pesadelo! \n Mas os dias que virão acrescentará a saudade \n e aumentará o vazio que nos deixou... \n Por tudo te agradecemos! \n Adeus!!!"
+  },
+
+  "4": {
+    "Titulo": "Menina Faceira!",
+    "Artista": "Noeli Muller de Almeida",
+    "Data": "03/04/2006",
+    "Poema": "Quem dera menina faceira \n Cheia de vida, risonha e falante! \n um tanto atrevida \n\n Seu mundo era só alegria! \n meio em suas fantasias \n pois outro mundo não conhecia. \n Pisar na linha! Ser sempre educada! \n Preservar sua honra, sejas certinha. \n e serás valorizada! (assim foi ensinada)!!! \n\n Menina faceira, no íntimo sufocou! \n nos anos que se passaram a menina para trás ficou! \n Mulher como amadureceu! \n momentos de afeição, carinho e paixão viveu! \n e onde está o seu valor? \n\n A fantasia e a falta de conhecimento pra trás ficou \n nos anos que viveu \n muitos mundos conheceu. \n Quem sabe em um deles serás valorizada! \n Uma esposa fiel? Uma profissional competente? \n Uma mãe dedicada? Uma amiga confidente? \n Ou será só nos sonhos da menina faceira? "
+  },
+
+  "5": {
+    "Titulo": "Meditação",
+    "Artista": "Noeli Muller de Almeida",
+    "Data": "23/04/2007",
+    "Poema": "Conhecemos o verdadeiro das pessoas \n no leito de sua dor. \n Suportamos a dor se conhecemos o amor! \n Tudo pode falhar, o amor jamais! \n A dor faz de nós frágeis criaturas. \n O amor fortalece a ultima esperança. \n\n Se Confiarmos em Deus! \n cremos em valores permanentes \n Se cremos em um Deus único e presente. \n nos sentimos em segurança. \n Ainda que a dor drible a nossa mente \n O amor vai até onde a nossa fé alcança! \n\n No leito de dor! Conseguimos olhar mais além. \n\n Descobrir nas pessoas o que de bom e verdadeiro elas têm. \n As traições, mentiras e ofensas \n ficam distante na vida que passa depressa..."
+  },
+
+  "6": {
+    "Titulo": "Deficiência",
+    "Artista": "Noeli Muller de Almeida",
+    "Data": "30/07/2006",
+    "Poema": "Deficiente; É aquele que não modificar sua vida \n aceitando as imposições da sociedade \n sem ter a consciência de que é dono do seu próprio destino. \n\n Louco; É aquele que não processa ser feliz \n com o que possui. \n\n Cego; É aquele que não vê seu próximo morrer de frio, de fome, de miséria \n é só tem olhos para os seus míseros problemas e pequenas dores. \n\n Surdo; É aquele que não tem tempo de ouvir um desabafo \n de seu amigo, ou um apelo de seu irmão. \n Pois está sempre apressado para o trabalho e quer garantir seus tostões no fim do mês. \n\n Mudo; É a quele que não consegue falar o que sente \n e se esconde por trás da máscara da hipocrisia. \n\n Paralítico; É quem não consegue andar na direção \n daqueles que precisam de sua ajuda. \n\n Diabético; É quem não consegue ser doce. \n\n Anão; É quem não sabe deixar o amor crescer. \n\n Miseravel; Sendo como a pior deficiencia de todos \n são todos aqueles que não alcaçam Deus"                                                                                          
+  },
+
+  "7": {
+    "Titulo": "Tempos de dor...",
+    "Artista": "Noeli Muller de Almeida",
+    "Data": "19/01/2011",
+    "Poema": "É noite! tudo é calmo ao redor \n Ouço a chuva cair bruta e constante. \n A brisa fresca, formam um bom convite \n para ir deitar e descansar... \n\n Minha mente ferve de pensamentos \n os olhos ardem pelo cansaço \n a alma inquieta e angustiada \n não consegue o corpo repousar!!! \n\n Oh Deus! acalme a minha mente! \n meu corpo e coração. \n Ajude-me a entender \n porque tanta inquietação!!! \n\n Ouço os aflitos a reclamar \n vidas que já não existem \n Partiram seu tempo de dizer adeus! \n Ventos, chuvas torrenciais, somos obrigados a desligar \n destruíram as esperanças, não deixaram nem as coisas \n que tanto tem para amar... \n\n Oh Deus! acalente minha alma! \n Usas meus lábios para falar de tua palavra \n com amor! \n Assim como o sol brilha para o justo e o injusto \n O ímpio e o salvo compartilham a mesma dor"                                               
+  }
 }
